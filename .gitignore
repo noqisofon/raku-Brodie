@@ -1,0 +1,9 @@
+# -*- mode: gitignore; -*-
+
+# Emacs Temporary files
+.*~
+*~
+\#*#
+
+# Perl6(a.k.a. Raku) precomp
+.precomp/
